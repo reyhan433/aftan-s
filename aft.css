@@ -1,0 +1,52 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:aliceblue;
+    text-align: center;
+    padding-top: 50px;
+    backdrop-filter: brigtness 1.2;
+
+ }
+.identitas {
+background-color: aliceblue;
+padding : 30px;
+margin:auto;
+width: 15pxx;
+max-width: 60px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+
+.foto-bulat {
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    object-fit: cover;
+}
+
+.tagline {
+    font-style: italic;
+    color:black;
+    margin-top: 10px;
+}
+
+.kontak {
+    margin-top: auto;
+    color: aqua;
+}
+
+.desc1 {
+     font-family: 'Times New Roman', Times, serif;
+    background-color:aliceblue;
+    text-align: center;
+    padding-top: 50px;
+   
+}
+
+.desc2 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:aliceblue;
+    text-align: center;
+    padding-top: 50px;
+
+}
