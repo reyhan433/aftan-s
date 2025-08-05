@@ -17,6 +17,32 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 border-radius: 10px;
 }
 
+.about-box {
+  background-color: #f0f8ff;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  font-style: italic;
+  text-align: center;
+}
+
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.left, .right {
+  flex: 1;
+  min-width: 250px;
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
 .foto-bulat {
     width: 150px;
     height: 150px;
